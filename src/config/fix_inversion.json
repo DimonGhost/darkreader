@@ -213,7 +213,10 @@
             ],
             "noinvert": ".uiStreamStory video",
             "removebg": "._4d3w .stageWrapper",
-            "rules": "._2s1x ._2s1y { background: #9BB5E8 !important; color: black !important; border-bottom-color: #92A6CA !important; }"
+            "rules": [
+                "._2s1x ._2s1y { background: #9BB5E8 !important; color: black !important; border-bottom-color: #92A6CA !important; }",
+                "._nd_ ._hh7 {background-color: #81c2ff; color: #000000 !important;}"
+			]
         },
         {
             "url": "farside.ph.utexas.edu",
